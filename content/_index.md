@@ -414,6 +414,7 @@ TAB 1
 
 *   Course notes by _Andrea Al Muktash_ - [Download](TAB1/QuantumCommunications/QuantumCommuncations-AlMuktash.pdf)
 *   Course notes by _Riccardo Moleri_ - [Download](TAB1/QuantumCommunications/QuantumCommunications_Riccardo_Moleri-min.pdf)
+*   Course notes by _Sara Spagnoli_ - [Download](TAB1/QuantumCommunications/Quantum_Notes_Spagnoli.pdf)
 
 &nbsp;
 
